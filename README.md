@@ -1,6 +1,3 @@
-# dex-analytics
-A Power BI dashboard simulating Digital Employee Experience (DEX) analytics revealing how IT ticket volume alone masks hidden performance issues across departments. Built using Python, Excel &amp; Power BI.
-
 # Digital Employee Experience (DEX) Analytics Dashboard
 ### A Power BI project inspired by Nexthink's approach to proactive IT intelligence
 
